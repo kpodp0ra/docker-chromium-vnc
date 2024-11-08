@@ -1,0 +1,30 @@
+{
+  "DownloadRestrictions": 3,
+  "PasswordManagerEnabled": false,
+  "EnableExperimentalPolicies": false,
+  "SyncDisabled": true,
+  "BrowserSignin": 0,
+  "ChromeForTestingAllowed": 0,
+  "PrintingEnabled": false,
+  "BrowserLabsEnabled": false,
+  "ExtensionInstallBlocklist": "*",
+  "DefaultFileSystemWriteGuardSetting": 2,
+  "DefaultFileSystemReadGuardSetting": 2,
+  "AllowSystemNotifications": false,
+  "AllowDeletingBrowserHistory": false,
+  "BrowserGuestModeEnabled": false,
+  "BrowserThemeColor": "#000000",
+  "ForceGoogleSafeSearch": true,
+  "FullscreenAllowed": false,
+  "HttpsUpgradesEnabled": true,
+  "IncognitoModeAvailability": 1,
+  "PromotionsEnabled": false,
+  "SSLErrorOverrideAllowed": false,
+  "SafeSitesFilterBehavior": 1,
+  "SandboxExternalProtocolBlocked": true,
+  "DefaultBrowserSettingEnabled": false,
+  "ShowFullUrlsInAddressBar": true,
+  "URLBlocklist": [
+    "file://*"
+  ]
+}
